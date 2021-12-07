@@ -16,6 +16,8 @@ Since this project was only meant for private use, several problems were left un
 
 •	Lack of a file picker. This is just an inconvenience rather than an issue, but the file path needs to be input as a string: Simply click right of the folder name in bar at the top of your file browser, copy that path into the text field and add the filename. If this is too much of an inconvenience, please let me know and I will add a proper file picker as soon as I can.
 
+•	The program might not start on some devices. Please contact me if that is the case for you as well.
+
 ## How to use it
 I have provided a pre-built .jar file in this repository. This should run on any device that supports Java SE 12 or higher. Of course, you can compile it yourself (once I have committed the source code at least. I would like to work on it a bit before I do so, so that it is a bit more readable etc.)
 
